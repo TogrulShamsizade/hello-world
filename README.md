@@ -1,2 +1,2 @@
-# hello-world
-Just a Hello World project
+# Tic-Tac-Toe
+Tic-Tac-Toe playing AI
